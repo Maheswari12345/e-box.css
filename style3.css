@@ -1,0 +1,28 @@
+.img{
+    width:75px;
+    height:75px;
+   
+  
+}
+#a{
+    color:mediumvioletred;
+    text-decoration:none;
+    font-weight:bold;
+    font-size:30px;
+}
+h1{
+    color:green;
+
+}
+p{
+    text-align: center;
+    color:red;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:20px;
+}
+#y
+{
+ border:rgb(211,211,211) 30px solid;
+ outline:25px green solid;
+ margin:30px;
+}
